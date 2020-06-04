@@ -2,10 +2,10 @@
 
 LeetCode solutions in Python
 
-| NO.  | Title                                                        | Solution                                            | Difficulty |
-| ---- | ------------------------------------------------------------ | --------------------------------------------------- | ---------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | [Python](solution_python/001%20Two%20Sum.ipynb)     | Easy       |
-| 2    | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python](solution_python/002 Add Two Numbers.ipynb) | Medium     |
+| NO.  | Title                                                        | Solution                                                  | Difficulty |
+| ---- | ------------------------------------------------------------ | --------------------------------------------------------- | ---------- |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | [Python](solution_python/001%20Two%20Sum.ipynb)           | Easy       |
+| 2    | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python](solution_python/002%20Add%20Two%20Numbers.ipynb) | Medium     |
 
 
 
