@@ -13,7 +13,9 @@ LeetCode solutions in Python
 
 
 
-精力有限，只能日更一道，坚持价值投资，做时间的朋友，喜欢的朋友请点点 star，关注我的公众号CV伴读社
+精力有限，只能日更一道，坚持价值投资，做时间的朋友。  
+
+喜欢的朋友请点点 star，关注我的[CSDN](https://mp.csdn.net/console/article)博客，关注我的公众号CV伴读社
 
 <div align=center><img src="https://github.com/xiaoxuebajie/LeetCode/raw/master/solution_python/images/qrcode.jpg" style='zoom:100%'>
 
