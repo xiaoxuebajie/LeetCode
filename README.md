@@ -9,6 +9,7 @@ LeetCode solutions in Python
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python](solution_python/003%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb) | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Python](solution_python/004%20Median%20of%20Two%20Sorted%20Arrays.ipynb) | Hard       |
 | 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python](solution_python/005%20Longest%20Palindromic%20Substring.ipynb) | Medium     |
+| 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python](solution_python/005%20Longest%20Palindromic%20Substring.ipynb) | Medium     |
 
 
 
