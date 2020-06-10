@@ -11,6 +11,7 @@ LeetCode solutions in Python
 | 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python](solution_python/005%20Longest%20Palindromic%20Substring.ipynb) |                                                         | Medium     |
 | 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python](solution_python/006%20ZigZag%20Conversion.ipynb)    |                                                         | Medium     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer) | [Python](solution_python/007%20Reverse%20Integer.ipynb)      |                                                         | Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python](solution_python/007%20Reverse%20Integer.ipynb)      |                                                         | Medium     |
 
 
 
