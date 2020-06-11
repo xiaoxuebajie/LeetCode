@@ -12,7 +12,7 @@ LeetCode solutions in Python
 | 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python](solution_python/006%20ZigZag%20Conversion.ipynb)    |                                                         | Medium     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer) | [Python](solution_python/007%20Reverse%20Integer.ipynb)      |                                                         | Easy       |
 | 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python](solution_python/008%20String%20to%20Integer%20(atoi).ipynb) |                                                         | Medium     |
-| 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](solution_python/008%20String%20to%20Integer%20(atoi).ipynb) |                                                         | Easy       |
+| 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](solution_python/009%20Palindrome%20Number.ipynb)    |                                                         | Easy       |
 
 
 
