@@ -16,6 +16,7 @@ LeetCode solutions in Python
 | 10   | [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/) | [Python](solution_python/010%20Regular%20Expression%20Matching.ipynb) |                                                         | Hard       |
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python](solution_python/011%20Container%20With%20Most%20Water.ipynb) |                                                         | Medium     |
 | 12   | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python](solution_python/012%20Integer%20to%20Roman.ipynb)   |                                                         | Medium     |
+| 13   | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python](solution_python/012%20Integer%20to%20Roman.ipynb)   |                                                         | Easy       |
 
 
 
