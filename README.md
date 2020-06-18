@@ -17,7 +17,7 @@ LeetCode solutions in Python
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python](solution_python/011%20Container%20With%20Most%20Water.ipynb) |                                                         | Medium     |
 | 12   | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python](solution_python/012%20Integer%20to%20Roman.ipynb)   |                                                         | Medium     |
 | 13   | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python](solution_python/013%20Roman%20to%20Integer.ipynb)   |                                                         | Easy       |
-| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](solution_python/013%20Roman%20to%20Integer.ipynb)   |                                                         | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](solution_python/014%20Longest%20Common%20Prefix.ipynb) |                                                         | Easy       |
 
 
 
