@@ -18,7 +18,7 @@ LeetCode solutions in Python
 | 12   | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python](solution_python/012%20Integer%20to%20Roman.ipynb)   |                                                         | Medium     |
 | 13   | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python](solution_python/013%20Roman%20to%20Integer.ipynb)   |                                                         | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](solution_python/014%20Longest%20Common%20Prefix.ipynb) |                                                         | Easy       |
-| 15   | [Three Sum](https://leetcode-cn.com/problems/3sum/)          | [Python](solution_python/014%20Longest%20Common%20Prefix.ipynb) |                                                         | Medium     |
+| 15   | [Three Sum](https://leetcode-cn.com/problems/3sum/)          | [Python](solution_python/015%203Sum.ipynb)                   |                                                         | Medium     |
 
 
 
