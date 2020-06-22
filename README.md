@@ -13,12 +13,13 @@ LeetCode solutions in Python
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer) | [Python](solution_python/007%20Reverse%20Integer.ipynb)      | [哔哩哔哩](https://www.bilibili.com/video/BV11C4y1a76d) | Easy       |
 | 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python](solution_python/008%20String%20to%20Integer%20(atoi).ipynb) | [哔哩哔哩](https://www.bilibili.com/video/BV1UC4y1a7Vf) | Medium     |
 | 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](solution_python/009%20Palindrome%20Number.ipynb)    | [哔哩哔哩](https://www.bilibili.com/video/BV1oC4y1a764) | Easy       |
-| 10   | [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/) | [Python](solution_python/010%20Regular%20Expression%20Matching.ipynb) |                                                         | Hard       |
+| 10   | [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/) | [Python](solution_python/010%20Regular%20Expression%20Matching.ipynb) | [哔哩哔哩](https://www.bilibili.com/video/BV1op4y1D7nJ) | Hard       |
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python](solution_python/011%20Container%20With%20Most%20Water.ipynb) |                                                         | Medium     |
 | 12   | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python](solution_python/012%20Integer%20to%20Roman.ipynb)   |                                                         | Medium     |
 | 13   | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python](solution_python/013%20Roman%20to%20Integer.ipynb)   |                                                         | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](solution_python/014%20Longest%20Common%20Prefix.ipynb) |                                                         | Easy       |
 | 15   | [Three Sum](https://leetcode-cn.com/problems/3sum/)          | [Python](solution_python/015%203Sum.ipynb)                   |                                                         | Medium     |
+| 16   | [Three Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python](solution_python/015%203Sum.ipynb)                   |                                                         | Medium     |
 
 
 
