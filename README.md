@@ -21,6 +21,7 @@ LeetCode solutions in Python
 | 15   | [Three Sum](https://leetcode-cn.com/problems/3sum/)          | [Python](solution_python/015%203Sum.ipynb)                   |                                                         | Medium     |
 | 16   | [Three Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python](solution_python/016%203Sum%20Closest.ipynb)         |                                                         | Medium     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python](solution_python/017%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb) |                                                         | Medium     |
+| 18   | [Four Sum](https://leetcode-cn.com/problems/4sum/)           | [Python](solution_python/017%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb) |                                                         | Medium     |
 
 
 
