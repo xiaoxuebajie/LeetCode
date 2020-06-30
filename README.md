@@ -23,7 +23,7 @@ LeetCode solutions in Python
 | 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python](solution_python/017%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb) |                                                         | Medium     |
 | 18   | [Four Sum](https://leetcode-cn.com/problems/4sum/)           | [Python](solution_python/018%204Sum.ipynb)                   |                                                         | Medium     |
 | 19   | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Python](solution_python/019%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb) |                                                         | Medium     |
-| 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python](solution_python/019%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb) |                                                         | Easy       |
+| 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python](solution_python/020%20alid%20Parentheses.ipynb)     |                                                         | Easy       |
 
 
 
