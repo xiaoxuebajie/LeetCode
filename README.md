@@ -25,7 +25,7 @@ LeetCode solutions in Python
 | 19   | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Python](solution_python/019%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb) |                                                         | Medium     |
 | 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python](solution_python/020%20alid%20Parentheses.ipynb)     |                                                         | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](solution_python/021%20Merge%20Two%20Sorted%20Lists.ipynb) |                                                         | Easy       |
-| 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](solution_python/021%20Merge%20Two%20Sorted%20Lists.ipynb) |                                                         | Medium     |
+| 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](solution_python/022%20Generate%20Parentheses.ipynb) |                                                         | Medium     |
 
 
 
