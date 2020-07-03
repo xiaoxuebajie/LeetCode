@@ -26,7 +26,7 @@ LeetCode solutions in Python
 | 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python](solution_python/020%20alid%20Parentheses.ipynb)     |                                                         | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](solution_python/021%20Merge%20Two%20Sorted%20Lists.ipynb) |                                                         | Easy       |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](solution_python/022%20Generate%20Parentheses.ipynb) |                                                         | Medium     |
-| 23   | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Python](solution_python/022%20Generate%20Parentheses.ipynb) |                                                         | Hard       |
+| 23   | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Python](solution_python/023%20Merge%20k%20Sorted%20Lists.ipynb) |                                                         | Hard       |
 
 
 
