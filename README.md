@@ -17,7 +17,7 @@ LeetCode solutions in Python
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python](solution_python/011%20Container%20With%20Most%20Water.ipynb) | [哔哩哔哩](https://www.bilibili.com/video/BV1Dp4y1D7Qj) | Medium     |
 | 12   | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python](solution_python/012%20Integer%20to%20Roman.ipynb)   | [哔哩哔哩](https://www.bilibili.com/video/BV1Bg4y1v7tW) | Medium     |
 | 13   | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python](solution_python/013%20Roman%20to%20Integer.ipynb)   | [哔哩哔哩](https://www.bilibili.com/video/BV1w54y1z77L) | Easy       |
-| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](solution_python/014%20Longest%20Common%20Prefix.ipynb) |                                                         | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](solution_python/014%20Longest%20Common%20Prefix.ipynb) | [哔哩哔哩](https://www.bilibili.com/video/BV1d5411Y7gY) | Easy       |
 | 15   | [Three Sum](https://leetcode-cn.com/problems/3sum/)          | [Python](solution_python/015%203Sum.ipynb)                   |                                                         | Medium     |
 | 16   | [Three Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python](solution_python/016%203Sum%20Closest.ipynb)         |                                                         | Medium     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python](solution_python/017%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb) |                                                         | Medium     |
@@ -27,6 +27,7 @@ LeetCode solutions in Python
 | 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](solution_python/021%20Merge%20Two%20Sorted%20Lists.ipynb) |                                                         | Easy       |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](solution_python/022%20Generate%20Parentheses.ipynb) |                                                         | Medium     |
 | 23   | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Python](solution_python/023%20Merge%20k%20Sorted%20Lists.ipynb) |                                                         | Hard       |
+| 24   | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python](solution_python/024%20Swap%20Nodes%20in%20Pairs.ipynb) |                                                         | Medium     |
 
 
 
