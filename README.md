@@ -28,7 +28,7 @@ LeetCode solutions in Python
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](solution_python/022%20Generate%20Parentheses.ipynb) |                                                         | Medium     |
 | 23   | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Python](solution_python/023%20Merge%20k%20Sorted%20Lists.ipynb) |                                                         | Hard       |
 | 24   | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python](solution_python/024%20Swap%20Nodes%20in%20Pairs.ipynb) |                                                         | Medium     |
-| 25   | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Python](solution_python/024%20Swap%20Nodes%20in%20Pairs.ipynb) |                                                         | Hard       |
+| 25   | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Python](solution_python/025%20Reverse%20Nodes%20in%20k-Group.ipynb) |                                                         | Hard       |
 
 
 
