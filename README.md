@@ -30,8 +30,8 @@ LeetCode solutions in Python
 | 24   | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python](solution_python/024%20Swap%20Nodes%20in%20Pairs.ipynb) |                                                         | Medium     |
 | 25   | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Python](solution_python/025%20Reverse%20Nodes%20in%20k-Group.ipynb) |                                                         | Hard       |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](solution_python/026%20Remove%20Duplicates%20from%20Sorted%20Array.ipynb) |                                                         | Easy       |
-| 27   | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python](solution_python/025%20Reverse%20Nodes%20in%20k-Group.ipynb) |                                                         | Easy       |
-| 28   | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python](solution_python/025%20Reverse%20Nodes%20in%20k-Group.ipynb) |                                                         | Easy       |
+| 27   | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python](solution_python/027%20Remove%20Element.ipynb)       |                                                         | Easy       |
+| 28   | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python](solution_python/028%20Implement%20strStr().ipynb)   |                                                         | Easy       |
 
   
 
