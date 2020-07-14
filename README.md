@@ -33,7 +33,7 @@ LeetCode solutions in Python
 | 27   | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python](solution_python/027%20Remove%20Element.ipynb)       |                                                         | Easy       |
 | 28   | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python](solution_python/028%20Implement%20strStr().ipynb)   |                                                         | Easy       |
 | 29   | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python](solution_python/029%20Divide%20Two%20Integers.ipynb) |                                                         | Medium     |
-| 30   | [Substring with COncatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [Python](solution_python/029%20Divide%20Two%20Integers.ipynb) |                                                         | Hard       |
+| 30   | [Substring with COncatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [Python](solution_python/030%20Substring%20with%20Concatenation%20of%20All%20Words.ipynb) |                                                         | Hard       |
 
   
 
