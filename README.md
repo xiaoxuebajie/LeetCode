@@ -35,6 +35,7 @@ LeetCode solutions in Python
 | 29   | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python](solution_python/029%20Divide%20Two%20Integers.ipynb) |                                                         | Medium     |
 | 30   | [Substring with COncatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [Python](solution_python/030%20Substring%20with%20Concatenation%20of%20All%20Words.ipynb) |                                                         | Hard       |
 | 31   | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python](solution_python/031%20Next%20Permutaion.ipynb)      |                                                         | Medium     |
+| 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Python](solution_python/031%20Next%20Permutaion.ipynb)      |                                                         | Hard       |
 
   
 
