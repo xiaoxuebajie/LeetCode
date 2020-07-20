@@ -37,6 +37,7 @@ LeetCode solutions in Python
 | 31   | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python](solution_python/031%20Next%20Permutaion.ipynb)      |                                                         | Medium     |
 | 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Python](solution_python/032%20Longest%20Valid%20Parentheses.ipynb) |                                                         | Hard       |
 | 33   | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python](solution_python/033%20Search%20in%20Rotated%20Sorted%20Array.ipynb) |                                                         | Medium     |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](solution_python/034%20%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.ipynb) |                                                         | Medium     |
 
   
 
